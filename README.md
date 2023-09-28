@@ -1,4 +1,4 @@
-# machine learning on the NSL-KDD dataset
+# Anomaly detection in network traffic: Machine learning on NSL KDD
 
 This notebook showcases my work with 3 machine learning algorithms on the NSL kdd Dataset.
 The dataset can be found here: https://www.unb.ca/cic/datasets/nsl.html
